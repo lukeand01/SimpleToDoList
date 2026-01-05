@@ -1,7 +1,20 @@
-# SimpleToDoList
-Simple todo list with react
+# 📝 React Todo App
 
-feat: add todo creation
-feat: add completion toggle
-feat: add delete button
-style: improve todo hover effects
+
+A simple and modern Todo application built with React.
+
+## Features
+- Add todos
+- Mark todos as completed
+- Delete todos
+- Smooth hover animations
+- Clean, modern UI
+
+## Tech Stack
+- React
+- Vite
+- CSS
+
+
+
+![](my-react-app/MyImages/ImageForReadme.png)
